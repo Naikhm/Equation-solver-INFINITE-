@@ -187,4 +187,3 @@ It essentially recreates a mini scientific computing backend in pure C.
 
 
 
-P.S This code and this overview was made by claude, i ordered the math and it gave it to me on a golden plate, EqSol(inf)-O4 is by chatgpt and its not the better version, the other version on the other hand is by claude which was almost perfect but it has some flaws (MATHMATECALLY) and they don't make any problem but some of them are (MATHMATECALLY) wrong
